@@ -1,0 +1,11 @@
+[package]
+name = "gba-rs"
+version = "0.1.0"
+authors = ["yelikubuntu"]
+
+[dependencies]
+time = "*"
+getopts = "*"
+log = "*"
+env_logger = "*"
+num = "*"
